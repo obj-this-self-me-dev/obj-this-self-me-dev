@@ -1,44 +1,18 @@
-# Hi 👋, I'm Kushagra Srivastava
-
-### Passionate Developer
-
+# 💫 About Me:
+I’m Kushagra Srivastava, a passionate and evolving software developer with a strong drive for building meaningful tools and improving my craft through real coding experience. I love learning new technologies and exploring how software can solve real problems.<br><br>I’m particularly interested in the full software development lifecycle — from ideation and prototyping to deployment and iteration. I enjoy working with modern web technologies, crafting clean code, and expanding my skill set through hands-on project building and continuous learning.<br><br>💻 What I Build<br><br>I’ve started creating practical projects that demonstrate my technical growth and commitment to building solutions you can interact with:<br><br>newtool — A JavaScript/HTML based web tool project using modern frontend tooling (Vite, Tailwind, etc.). This project showcases my ability to structure a web app and work with key front-end technologies such as JavaScript, HTML, and CSS.<br><br>Personal Profile Repository — A self-descriptive portfolio repository showcasing who I am and my tech journey.<br><br>🚀 Tech Stack<br><br>I enjoy working with tools and technologies that help me build scalable and interactive apps, including but not limited to:<br><br>JavaScript — Core language for interactive web development.<br><br>HTML & CSS/Tailwind — Fundamental frontend markup and styling languages.<br><br>Modern Tooling — Experience with build tools like Vite and config-based workflows.<br><br>(Feel free to add backend, frameworks, databases, or cloud services you use or are learning — e.g., React, Node.js, AWS, etc.)<br><br>🔍 What I’m Focused On<br><br>🌱 Learning AWS and cloud architecture.<br><br>🧠 Improving system design and application architecture.<br><br>🛠️ Building more full-stack and production-ready applications.<br><br>💡 Creating tools that are practical, efficient, and well-designed.<br><br>📫 Let’s Connect<br><br>I’m always open to collaboration, feedback, or interesting conversations — whether about code, product ideas, or technology in general.<br><br>📧 Email: developerkushagra@gmail.com<br><br>LinkedIn, portfolio link, or other socials can go here too!
 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=obj-this-self-me-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=obj-this-self-me-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=obj-this-self-me-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I'm currently working on **Product Building | Founding Startup**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=obj-this-self-me-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I'm currently learning **AWS**
+---
+[![](https://visitcount.itsvg.in/api?id=obj-this-self-me-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤝 I'm looking for help with **System Design | Architecture**
-
-- 📫 How to reach me **developerkushagra@gmail.com**
-
-- 📄 Know about my experiences **: https://bit.ly/3XByxbk**
-
-<p>
-  </br>
-</p>
-
-# ⚒️ Connect with me
-<p align="left">
-  
-<a href="https://github.com/obj-this-self-me-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="obj-this-self-me-dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kushagrasrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushagrasrv" height="30" width="40" /></a>
-</p>
-<p>
-  </br>
-</p>
-
-# ⚒️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,react,nextjs,flutter,kotlin,androidstudio,python,go&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,redis,mongodb,mysql,postgres,kafka,rabbitmq&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,illustrator,xd&theme=dark" />
-</p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obj-this-self-me-dev&show_icons=true&locale=en&layout=compact" alt="obj-this-self-me-dev" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obj-this-self-me-dev&show_icons=true&locale=en" alt="obj-this-self-me-dev" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obj-this-self-me-dev&" alt="obj-this-self-me-dev" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
